@@ -1,4 +1,4 @@
-django-pwa
+django-pwa - DJANGO 4.0 SUPPPORT
 =====
 [![Build Status](https://travis-ci.org/silviolleite/django-pwa.svg)](https://travis-ci.org/silviolleite/django-pwa)
 [![Maintainability](https://api.codeclimate.com/v1/badges/246542ea921058c4f76f/maintainability)](https://codeclimate.com/github/silviolleite/django-pwa/maintainability)
